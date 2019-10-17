@@ -1,0 +1,1 @@
+When I first saw this problem I thought that this would be really easily solved in an o(n) time with a hashmap and in JavaScript the implementation is relatively easy I decided to just use that method instead of a slower o(n^2) method using a nested for loop.
